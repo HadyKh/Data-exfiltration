@@ -1,0 +1,4 @@
+[1] Samaneh Mahdavifar, Amgad Hanafy Salem, Princy Victor, Miguel Garzon, Amir H. Razavi, Natasha Hellberg, Arash Habibi Lashkari, “Lightweight Hybrid Detection of Data Exfiltration using DNS based on Machine Learning”, The 11th IEEE International Conference on Communication and Network Security (ICCNS), Dec. 3-5, 2021, Beijing Jiaotong University, Weihai, China.
+[2] Davenport, K. (2014). Using Entropy to Detect Randomly Generated Domains | Kevin Davenport Engineering & ML blog. Kldavenport.com. Retrieved 8 March 2022, from https://kldavenport.com/detecting-randomly-generated-domains/.
+[3] Lundberg, S., & Lee, S. (2017). A Unified Approach to Interpreting Model Predictions. Proceedings.neurips.cc. Retrieved 13 March 2022, from https://proceedings.neurips.cc/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html.
+[4] Johann Faouzi and Hicham Janati. pyts: A python package for time series classification. Journal of Machine Learning Research, 21(46):1−6, 2020.
