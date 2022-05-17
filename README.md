@@ -1,3 +1,13 @@
+# introduction
+DNS data exfiltration is a way to exchange data between two computers without any direct connection. The data is exchanged through DNS protocol on intermediate DNS servers.
+
+# project
+Using machine Learning techniques to detect DNS data exfiltration attacks.
+
+# Model used
+Catboost Classifier. 
+
+
 Project Organization
 ------------
 
